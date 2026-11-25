@@ -1,4 +1,4 @@
-nname: Backend Tests
+name: Backend Tests
 on:
   workflow_call:
 
