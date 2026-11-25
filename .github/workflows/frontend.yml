@@ -2,6 +2,7 @@ name: Frontend Tests
 on:
   workflow_call:
 
+
 jobs:
   frontend:
     runs-on: ubuntu-latest
