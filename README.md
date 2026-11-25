@@ -1,3 +1,7 @@
+# TaskFlow API
+
+![CI Pipeline](https://github.com/ValerieGeor/TP1-EDL/actions/workflows/cipipeline.yml/badge.svg)
+
 # 🚀 EDL Starter - Code de Démarrage
 
 Bienvenue dans le code de démarrage pour les ateliers d'Environnement de Développement Logiciel (EDL) !

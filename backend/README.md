@@ -1,7 +1,4 @@
 # TaskFlow — Backend
-# TaskFlow API
-
-![CI Pipeline](https://github.com/ValerieGeor/TP1-EDL/actions/workflows/cipipeline.yml/badge.svg)
 
 API FastAPI de gestion de tâches. Les tâches sont stockées en mémoire (TP 1 et 2), puis dans PostgreSQL (TP 3).
 
